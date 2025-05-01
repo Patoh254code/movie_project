@@ -1,4 +1,4 @@
-# Project Title: Movie Studio Profitability Analysis
+# Project Title: Data-Driven Movie Studio Profitability Analysis
 
 # ****Author: GROUP 7****
 
@@ -99,16 +99,29 @@ Relevant columns:
 ### 3.3 Expected Deliverables
 
 1. **Historical box office performance trend**: Analyze film performance over the years
-2. **Production Budget-Revenue**: Establish relationship between budget and 
-3. **Genre-ROI relationship**: Analyze financial performance by genre
-4. **Genre-Budget ranges**: Analyze genres average budget ranges 
-5. **Genre ratings**: Analyze financial performance by genre
-
+   
+   ![Histoical revenue trend](images/historical-revenue-trend.png)
+   
+3. **Production Budget-Revenue**: Establish relationship between budget and 
+4. **Genre-ROI relationship**: Analyze financial performance by genre
+   
+   ![Genre ROI relationship](images/genre-Roi.png)
+   
+6. **Genre-Budget ranges**: Analyze genres average budget ranges
+   
+   ![Genre budget ranges](images/genre-budget.png)
+   
+8. **Genre ratings**: Analyze financial performance by genre
+   
+   ![Genre ratings](images/genre-ratings.png)
+   
 ## 4.0 Project Structure
 
-1. Raw data- zippedData
-2. Data - cleaned data movie.csv
-3. Notebook - index.ipynb
+1. data folder-cleaned data file movie.csv
+2. images-images of plots
+3. zippedData-scrapped data from sources
+4. README.md-summary
+5. Notebook - index.ipynb
 
 ## 5.0 How to Contribute
 
