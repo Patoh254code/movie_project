@@ -32,7 +32,7 @@ The company aims to establish a new movie studio to capitalize on the growing de
 ### **1.6 Objectives**
 
 1. To analyze historical box office data to identify trends over the years
-2. To determine the relationship between production budget and revenue
+2. To explore any linear relationship between production budget and revenue
 3. To analyze audience review
 4. To provide actionable recommendations on best film production strategies
 
@@ -46,7 +46,7 @@ The folder zippedData contains historical box office data scrapped from https://
 |--------|-------------|
 | Box Office Mojo | Historical box office performance |
 | The Numbers | Production budgets and financials |
-| IMDb | Talent and film metadata |
+| IMDb | Movie basics and Movie ratings table |
 
 ### **2.2 column description**
 Relevant columns:
